@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/mortgage/static/js/main.e0e89e1f.chunk.js",
+    "main.js.map": "/mortgage/static/js/main.e0e89e1f.chunk.js.map",
+    "runtime-main.js": "/mortgage/static/js/runtime-main.cf825139.js",
+    "runtime-main.js.map": "/mortgage/static/js/runtime-main.cf825139.js.map",
+    "static/js/2.8368aaff.chunk.js": "/mortgage/static/js/2.8368aaff.chunk.js",
+    "static/js/2.8368aaff.chunk.js.map": "/mortgage/static/js/2.8368aaff.chunk.js.map",
+    "index.html": "/mortgage/index.html",
+    "static/js/2.8368aaff.chunk.js.LICENSE.txt": "/mortgage/static/js/2.8368aaff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf825139.js",
+    "static/js/2.8368aaff.chunk.js",
+    "static/js/main.e0e89e1f.chunk.js"
+  ]
+}
