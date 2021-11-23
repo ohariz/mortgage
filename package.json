@@ -2,7 +2,7 @@
   "name": "mortgage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ohariz.github.io/mortgage",
+  "homepage": "https://ohariz.github.io/mortgage",
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
